@@ -13,7 +13,7 @@ MySQL Server: Database management system used for storing application data.
 Apache Tomcat: Web server used for hosting the Java-based web application.
 Installation
 Clone Repository:
-git clone https://github.com/yourusername/hospital-management.git
+git clone https://github.com/Ankuahratu/hospital-management.git
 Database Setup:
 
 Install MySQL Server and create a new database named hospital_management.
